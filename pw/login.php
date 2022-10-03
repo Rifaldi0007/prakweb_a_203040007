@@ -16,6 +16,7 @@
             <input type="text" name="user" placeholder="Username" class="input-control">
             <input type="password" name="pass" placeholder="Password" class="input-control">
             <input type="submit" name="submit" value="Login" class="btn">
+            <li><a href="index.php">Back</a></li>
         </form>
         <?php 
             if(isset($_POST['submit'])){
