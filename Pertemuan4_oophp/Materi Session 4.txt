@@ -89,4 +89,13 @@ class Coba{
 $a = new Coba();
 $b = new Coba();
 
-?>	
+?>
+
+Property
+-merepresentasikan data / keadaan dari sebuah object
+-variabel yang ada didalam object (member variable),
+-sama seperti variable didalam php,ditambah dengan visibility di depannya
+Method
+-merepresentasikan perilaku dari sebuah object
+-function yang ada didalam object
+-sama seperti function didalam php,ditambah dengan visibility didepannya.
