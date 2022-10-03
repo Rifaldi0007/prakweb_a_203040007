@@ -12,7 +12,7 @@
     <title>AnimStore</title>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
 </head>
-<body background="img/demon2.png">
+<body background="img/demon.png">
     <!--header-->
     <header>
         <div class="container">
