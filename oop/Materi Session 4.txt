@@ -99,3 +99,6 @@ Method
 -merepresentasikan perilaku dari sebuah object
 -function yang ada didalam object
 -sama seperti function didalam php,ditambah dengan visibility didepannya.
+
+constructor
+-method adalah sebuah method yang khusus yang ada didalam class karena method ini otomatis dijalankan.
