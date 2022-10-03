@@ -104,3 +104,7 @@ constructor
 -method adalah sebuah method yang khusus yang ada didalam class karena method ini otomatis dijalankan.
 
 object type
+
+inheritance
+-menciptakan hierarki antar kelas (parent & child)
+-child class, mewarisi semua properti dan method dari parent-nya (yang visible)
