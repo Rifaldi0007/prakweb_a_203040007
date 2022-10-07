@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link rel="stylesheet" href="css/style.css">
-    <title>AnimStore</title>
+    <title>BookStore</title>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
     <script src="https://cdn.ckeditor.com/4.16.0/standard/ckeditor.js"></script>
 </head>
@@ -22,7 +22,7 @@
     <!--header-->
     <header>
         <div class="container">
-            <h1><a href="dashboard.php">AnimStore</a></h1>
+            <h1><a href="dashboard.php">BookStore</a></h1>
             <ul>
                 <li><a href="dashboard.php">Dashboard</a></li>
                 <li><a href="profil.php">Profil</a></li>
@@ -120,7 +120,7 @@
     <!--footer-->
     <footer>
         <div class="container">
-            <small><span style="color: white;">CoppyRight &copy; 2021 - AnimStore</span></small>
+            <small><span style="color: white;">CoppyRight &copy; 2021 - BookStore</span></small>
         </div>
     </footer>
     <script>

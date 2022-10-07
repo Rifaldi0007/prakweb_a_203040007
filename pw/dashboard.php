@@ -12,14 +12,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link rel="stylesheet" href="css/style.css">
-    <title>AnimStore</title>
+    <title>BookStore</title>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
 </head>
 <body background="img/anim2.png">
     <!--header-->
     <header>
         <div class="container">
-            <h1><a href="dashboard.php">AnimStore</a></h1>
+            <h1><a href="dashboard.php">BookStore</a></h1>
             <ul>
                 <li><a href="dashboard.php">Dashboard</a></li>
                 <li><a href="profil.php">Profil</a></li>
@@ -43,7 +43,7 @@
     <!--footer-->
     <footer>
         <div class="container">
-            <small>CoppyRight &copy; 2021 - AnimStore</small>
+            <small>CoppyRight &copy; 2021 - BookStore</small>
         </div>
     </footer>
 </body>

@@ -9,14 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link rel="stylesheet" href="css/style.css">
-    <title>AnimStore</title>
+    <title>BookStore</title>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
 </head>
 <body background="img/demon.png">
     <!--header-->
     <header>
         <div class="container">
-            <h1><a href="index.php">AnimStore</a></h1>
+            <h1><a href="index.php">BookStore</a></h1>
             <ul>
                 <li><a href="produk.php">Produk</a></li>
                 <li><a href="login.php">Login</a></li>
@@ -97,7 +97,7 @@
             <h4>Instagram</h4>
             <p>@AnimStore666</p>
 
-            <small><span style="color: white;">Coppyright &copy; 2021 - AnimStore</span></small>
+            <small><span style="color: white;">Coppyright &copy; 2021 - BookStore</span></small>
         </div>
     </div>
 </body>
