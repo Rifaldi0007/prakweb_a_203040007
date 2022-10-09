@@ -1,0 +1,16 @@
+Session 5
+MVC (Model View Controller)
+didefinisikan sebagai Pola arsitektur pada perancangan perangkat lunak berorientasi objek.
+Tujuan dari mvc ini adalah untuk memisahkan antara tampilan data dan proses.
+
+data -> Model = representasi pengetahuan, mengelola data, logika bisnis.
+Controller -> proses = perantara antara model dan view, menangani pemrosesan pada apk, menangani aksi dari user.
+View -> Tampilan. = output,apa yang dilihat oleh user, representasi visual dari model, lapisan presentasi.
+
+Kenapa mvc??
+-Organisasi dan struktur code
+-pemisahan logic dan tampilan
+-perawatan kode
+-implementasi konsep oop yang sudah dipelajari
+-digunakan oleh banyak web aplication framework.
+
