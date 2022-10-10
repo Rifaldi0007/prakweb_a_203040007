@@ -9,7 +9,7 @@ class App {
     {
         $url = $this->parseURL();
         //controller
-        if(file_exists('../app/controllers' . $url[0] . '.php')) {
+        if(file_exists('../app/controllers/' . $url[0] . '.php')) {
             $this->controller = $url[0];
             unset($url[0]);
         }
@@ -27,7 +27,7 @@ class App {
         }
 
         //params
-        if(!empty($url) ) {
+        if( !empty($url) ) {
             $this->params = array_values($url);
             
         }
@@ -41,7 +41,7 @@ class App {
         if(isset($_GET['url']) ) {
             $url = rtrim($_GET['url'], '/');
             $url = filter_var($url, FILTER_SANITIZE_URL);
-            $url = explode('/', $url);
+            $url = explode ('/', $url);
             return $url;
         }
     }
