@@ -1,5 +1,6 @@
 <div class="container">
-    <h1 class="mt-4">About me</h1>
-    <img src="<?= BASEURL; ?>/img/" alt="Faldi arsan" width="" class="rounded-circle shadow">
-    <p>Halo,nama saya <?= $data['nama']; ?>, umur saya <?= $data['umur']?>; tahun, saya seorang <?= $data['pekerjaan']?>.</p>
+
+  <h1 class="mt-4">About Me</h1>
+  <img src="<?= BASEURL; ?>/img/Faldi.jpg" alt="M. Faishal Thariqulhaq" width="200" class="rounded-circle shadow">
+  <p>Halo, nama saya <?= $data['nama']; ?>, umur <?= $data['umur']; ?> tahun, saya adalah seorang <?= $data['pekerjaan']; ?>.</p>
 </div>
